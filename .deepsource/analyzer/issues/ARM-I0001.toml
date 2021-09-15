@@ -1,0 +1,10 @@
+title = "Badly capitalized word"
+description = """
+Words should be capitalized well.
+
+For example, `Autofix`, not `autofix`.
+"""
+category = "style"
+severity = "major"
+recommended = true
+weight = 90

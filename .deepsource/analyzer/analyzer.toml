@@ -1,0 +1,5 @@
+name = "Armory"
+description = "Validate the issues and analyzer TOML for DeepSource."
+visibility = "private"
+category = "language"
+analysis_command = "PYTHONPATH=/toolbox/venv:$PYTHONPATH python /app/analyze.py"

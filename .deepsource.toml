@@ -1,0 +1,3 @@
+[[analyzers]]
+name = "github.com/sourya-deepsource/screamer"
+enabled = true
